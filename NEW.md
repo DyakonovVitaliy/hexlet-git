@@ -1,1 +1,0 @@
-MSI don`t work
